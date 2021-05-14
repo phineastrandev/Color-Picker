@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  margin-left: 20px;
+}
+#content{
+  padding: 10px;
+  border: solid 3px red;
+}
+#reset-button{
+  margin: 20px;
+  
+}
+.active {
+  border: solid 3px black;
+  font-weight: 20px;
+}
